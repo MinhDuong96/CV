@@ -1,4 +1,4 @@
-## Duong Cong Minh
+## DUONG CONG 
 
 * Junior Front End Developer - Junior Wordpress Developer in `Metta Depth`.
 * Working experience in Vietnam.
