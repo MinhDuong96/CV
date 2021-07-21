@@ -5,7 +5,7 @@
 * Email: [duongcongminh12a3@gmail.com](MinhDuong96)
 * Phone: [+84905817596](+84905817596)
 
-## SUMMARY
+## SUMMARY:
 
 - [x] 1 year experience in Full-stack development
 
@@ -44,7 +44,7 @@ Skilled researcher able to identify opportunities in a given arena.
 - Develop customized customer relationship management platforms.
 
 
-### EXPERIENCE
+### EXPERIENCE:
 
 #### *Junior Front End Developer* | Metta Depth `July 2020 - Present`
 
@@ -57,7 +57,7 @@ Skilled researcher able to identify opportunities in a given arena.
 - [x] VVN: https://votrevoyagedenoces.fr
 - [x] Visio: https://visioforest.fr
 
-## EDUCATION
+## EDUCATION:
 
 ### University of Hue, Vietnam `2016-2021`
 - [x] Bachelor's degree in Software Engineering.
