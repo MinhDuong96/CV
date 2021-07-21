@@ -7,11 +7,20 @@
 
 ## TECHNICAL SKILLS:
 
-LANGUAGES: C, C++, PHP.
+* #### Front End
+	* JavaScript, ES6, HTML5, CSS3
+	* ReactJS
+  * Wordpress
+  * Bootstrap, SCSS, LESS, Responsive
 
-WEB TECHNOLOGIES: XML, HTML, XHTML, CSS, JavaScript, PHP,  Bootstrap, JQuery.
-
-WEB SERVICES: JSON, REST.
+* #### Dev
+	* Design Tools
+	* UI Testing
+	* Git
+	
+* #### Back End
+	* MySQL
+	* Typescript, PHP
 
 ## Responsibilities:
 
@@ -35,7 +44,7 @@ Skilled researcher able to identify opportunities in a given arena.
 - [x] Participate in the front-end architecture work in a new generation website.
 - [x] Responsible on production app performance. Resolved website performance issues
 
-#### *Projects*
+### *Projects*
 
 - [x] Shotyz
 - [x] VVN
