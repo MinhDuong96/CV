@@ -32,6 +32,8 @@
 
 ## Summary
 
+* 1 year experience in Full-stack development
+
 As a 1 years agile geek in web engineering, with experience in PHP full-stack and the JavaScript stack development;
 Highly knowledgeable on scalable and usable UI components and Front-end architecture.
 Good communicator who is not afraid to ask questions to understand project requirements fully.
