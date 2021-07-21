@@ -14,6 +14,7 @@ WEB TECHNOLOGIES: XML, HTML, XHTML, CSS, JavaScript, PHP,  Bootstrap, JQuery.
 WEB SERVICES: JSON, REST.
 
 ## Responsibilities:
+
 - Provide support for project execution involving new solution if required.
 
 - Followup to closure in order to implement change and escalate to supervisor if required.
@@ -29,10 +30,16 @@ Skilled researcher able to identify opportunities in a given arena.
 
 ## Experience
 
-### *Junior Front End Developer*
-#### Metta Depth `July 2020 - Present`
+### *Junior Front End Developer* | Metta Depth `July 2020 - Present`
 
 - [x] Participate in the front-end architecture work in a new generation website.
+- [x] Responsible on production app performance. Resolved website performance issues
+
+#### *Projects*
+
+- [x] Shotyz
+- [x] VVN
+- [x] Visio
 
 ## Education
 
