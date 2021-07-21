@@ -5,7 +5,16 @@
 * Email: [duongcongminh12a3@gmail.com](MinhDuong96)
 * Phone: [+84905817596](+84905817596)
 
-## TECHNICAL SKILLS:
+## SUMMARY
+
+* 1 year experience in Full-stack development
+
+As a 1 years agile geek in web engineering, with experience in PHP full-stack and the JavaScript stack development;
+Highly knowledgeable on scalable and usable UI components and Front-end architecture.
+Good communicator who is not afraid to ask questions to understand project requirements fully.
+Skilled researcher able to identify opportunities in a given arena.
+
+### TECHNICAL SKILLS:
 
 * #### Front End
 	* JavaScript, ES6, HTML5, CSS3
@@ -22,11 +31,11 @@
 	* MySQL
 	* Typescript, PHP
 
-## SOFT SKILLS:
+### SOFT SKILLS:
 * Skilled in communication, presentation and constructive feedback.
 * Self-motivated and capable of rapidly learning new technologies and processes, and successfully applying them to projects and operations.
     
-## RESPONSIBILITIES:
+### RESPONSIBILITIES:
 
 - Provide support for project execution involving new solution if required.
 
@@ -34,23 +43,15 @@
 
 - Develop customized customer relationship management platforms.
 
-## SUMMARY
 
-* 1 year experience in Full-stack development
+### EXPERIENCE
 
-As a 1 years agile geek in web engineering, with experience in PHP full-stack and the JavaScript stack development;
-Highly knowledgeable on scalable and usable UI components and Front-end architecture.
-Good communicator who is not afraid to ask questions to understand project requirements fully.
-Skilled researcher able to identify opportunities in a given arena.
-
-## EXPERIENCE
-
-### *Junior Front End Developer* | Metta Depth `July 2020 - Present`
+#### *Junior Front End Developer* | Metta Depth `July 2020 - Present`
 
 - [x] Participate in the front-end architecture work in a new generation website.
 - [x] Responsible on production app performance. Resolved website performance issues
 
-### *Projects*
+#### *Projects*
 
 - [x] Shotyz: https://shotyz.io
 - [x] VVN: https://votrevoyagedenoces.fr
