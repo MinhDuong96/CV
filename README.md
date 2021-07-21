@@ -22,7 +22,11 @@
 	* MySQL
 	* Typescript, PHP
 
-## Responsibilities:
+## SOFT SKILLS:
+* Skilled in communication, presentation and constructive feedback.
+* Self-motivated and capable of rapidly learning new technologies and processes, and successfully applying them to projects and operations.
+    
+## RESPONSIBILITIES:
 
 - Provide support for project execution involving new solution if required.
 
@@ -30,7 +34,7 @@
 
 - Develop customized customer relationship management platforms.
 
-## Summary
+## SUMMARY
 
 * 1 year experience in Full-stack development
 
@@ -39,7 +43,7 @@ Highly knowledgeable on scalable and usable UI components and Front-end architec
 Good communicator who is not afraid to ask questions to understand project requirements fully.
 Skilled researcher able to identify opportunities in a given arena.
 
-## Experience
+## EXPERIENCE
 
 ### *Junior Front End Developer* | Metta Depth `July 2020 - Present`
 
@@ -52,7 +56,7 @@ Skilled researcher able to identify opportunities in a given arena.
 - [x] VVN: https://votrevoyagedenoces.fr
 - [x] Visio: https://visioforest.fr
 
-## Education
+## EDUCATION
 
 ### University of Hue, Vietnam `2016-2021`
 - [x] Bachelor's degree in Software Engineering.
