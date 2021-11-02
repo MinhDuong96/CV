@@ -1,4 +1,4 @@
-## DUONG CONG MINH - MINH D
+## DUONG CONG MINH - M.D
 
 * Junior Front End Developer - Junior Wordpress Developer in `Metta Depth`.
 * Working experience in Vietnam.
