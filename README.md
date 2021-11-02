@@ -56,6 +56,7 @@ Skilled researcher able to identify opportunities in a given arena.
 - [x] Shotyz: https://shotyz.io
 - [x] VVN: https://votrevoyagedenoces.fr
 - [x] Visio: https://visioforest.fr
+- [x] Je Clic Pro: https://pro.jeclic-local.fr/
 
 ## EDUCATION:
 
