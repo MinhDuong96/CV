@@ -21,15 +21,15 @@ Skilled researcher able to identify opportunities in a given arena.
 	* ReactJS, NextJS
   * Wordpress
   * Bootstrap, SCSS, LESS, Responsive
-
-* #### Dev
-	* Design Tools
-	* UI Testing
-	* Git
 	
 * #### Back End
 	* MySQL
 	* Typescript, PHP
+
+* #### Dev Tools
+	* Design Tools
+	* UI Testing
+	* Git
 
 ### SOFT SKILLS:
 * Skilled in communication, presentation and constructive feedback.
