@@ -17,10 +17,9 @@ Skilled researcher able to identify opportunities in a given arena.
 ### TECHNICAL SKILLS:
 
 * #### Front End
-	* JavaScript, ES6, HTML5, CSS3
-	* ReactJS, NextJS
-  * Wordpress
-  * Bootstrap, SCSS, LESS, Responsive
+	* JavaScript, HTML5, CSS3
+	* ReactJS, NextJS, Wordpress
+  	* Bootstrap, SCSS, LESS, Responsive
 	
 * #### Back End
 	* MySQL
@@ -29,7 +28,7 @@ Skilled researcher able to identify opportunities in a given arena.
 * #### Dev Tools
 	* Design Tools
 	* UI Testing
-	* Git
+	* Git, Sourcetree
 
 ### SOFT SKILLS:
 * Skilled in communication, presentation and constructive feedback.
