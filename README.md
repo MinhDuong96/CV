@@ -18,7 +18,7 @@ Skilled researcher able to identify opportunities in a given arena.
 
 * #### Front End
 	* JavaScript, ES6, HTML5, CSS3
-	* ReactJS
+	* ReactJS, NextJS
   * Wordpress
   * Bootstrap, SCSS, LESS, Responsive
 
