@@ -1,6 +1,6 @@
 ## DUONG CONG MINH - M.D
 
-* Junior Front End Developer - Junior Wordpress Developer in `Metta Depth`.
+* Expert Front End Developer - Wordpress Developer in `Metta Depth`.
 * Working experience in Vietnam.
 * Email: [duongcongminh12a3@gmail.com](MinhDuong96)
 * Phone: [+84905817596](+84905817596)
@@ -45,7 +45,7 @@ Skilled researcher able to identify opportunities in a given arena.
 
 ### EXPERIENCE:
 
-#### *Junior Front End Developer* | Metta Depth `July 2020 - Present`
+#### *Front End Developer* | Metta Depth `July 2020 - Present`
 
 - [x] Participate in the front-end architecture work in a new generation website.
 - [x] Responsible on production app performance. Resolved website performance issues
