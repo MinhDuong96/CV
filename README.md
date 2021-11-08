@@ -17,9 +17,9 @@ Skilled researcher able to identify opportunities in a given arena.
 ### TECHNICAL SKILLS:
 
 * #### Front End
-	* JavaScript, HTML5, CSS3
+	* JavaScript, HTML5, CSS3, ES6
 	* ReactJS, NextJS, Wordpress
-  	* Bootstrap, SCSS, LESS, Responsive
+  	* Bootstrap, SCSS, LESS, Responsive, Styled Component
 	
 * #### Back End
 	* MySQL
