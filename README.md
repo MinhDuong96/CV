@@ -9,10 +9,10 @@
 
 - [x] 1 year experience in Full-stack development
 
-As a 1 years agile geek in web engineering, with experience in PHP full-stack and the JavaScript stack development;
+As a 1 years agile geek in web engineering, with experience in PHP full-stack and the JavaScript full stack development;
 Highly knowledgeable on scalable and usable UI components and Front-end architecture.
 Good communicator who is not afraid to ask questions to understand project requirements fully.
-Skilled researcher able to identify opportunities in a given arena.
+Ability to self-study and learn to solve problems.
 
 ### TECHNICAL SKILLS:
 
@@ -39,8 +39,6 @@ Skilled researcher able to identify opportunities in a given arena.
 - Provide support for project execution involving new solution if required.
 
 - Followup to closure in order to implement change and escalate to supervisor if required.
-
-- Develop customized customer relationship management platforms.
 
 
 ### EXPERIENCE:
